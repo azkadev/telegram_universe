@@ -1,0 +1,27 @@
+name: 'telegram_universe'
+description: 'Telegram Universe Library For Helping You make application instant with interact with telegram'
+version: '0.0.0'
+homepage: 'https://youtube.com/@azkadev'
+repository: 'https://github.com/azkadev/telegram_universe'
+issue_tracker: 'https://t.me/DEVELOPER_GLOBAL_PUBLIC'
+documentation: 'https://youtube.com/@azkadev'
+funding:
+  - 'https://github.com/sponsors/azkadev'
+  - 'https://github.com/sponsors/generalfoss'
+environment:
+  sdk: '>=3.6.0 <4.0.0'
+  flutter: '>=1.17.0'
+dependencies:
+  flutter:
+    sdk: 'flutter'
+  telegram_client: '^0.8.35'
+  general_lib: '^0.0.60'
+  general_framework: '^0.0.15'
+dev_dependencies:
+  flutter_test:
+    sdk: 'flutter'
+  flutter_lints: '^5.0.0'
+flutter: null
+dependency_overrides:
+  pointycastle: '3.8.0'
+  mime: '^2.0.0'
