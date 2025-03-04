@@ -14,14 +14,16 @@ environment:
 dependencies:
   flutter:
     sdk: 'flutter'
-  telegram_client: '^0.8.37'
-  general_lib: '^0.0.63'
-  general_framework: '^0.0.21'
+  telegram_client: '^0.8.43'
+  general_lib: '^0.0.67'
+  general_framework: '^0.0.28'
 dev_dependencies:
   flutter_test:
     sdk: 'flutter'
   flutter_lints: '^5.0.0'
 flutter: null
 dependency_overrides:
-  pointycastle: '3.8.0'
+  pointycastle: '4.0.0'
   mime: '^2.0.0'
+project:
+  type: ''
