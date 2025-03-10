@@ -15,8 +15,8 @@ dependencies:
   flutter:
     sdk: 'flutter'
   telegram_client: '^0.8.44'
-  general_lib: '^0.0.70'
-  general_framework: '^0.0.30'
+  general_lib: '^0.0.71'
+  general_framework: '^0.0.31'
 dev_dependencies:
   flutter_test:
     sdk: 'flutter'
